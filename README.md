@@ -6,4 +6,4 @@ v0.2
 
 1. Rušiuoja duomenis į "Gudročius" ir "Nuskriaustukus"
 2. "Gudročius" ir "Nuskriaustukus" išveda i du naujus failus
-3. Duomenų spartos analizė prideta "Testavimas.xlsx" faile
+3. Duomenų spartos analizė yra pridėtame "Testavimas.xlsx" faile
