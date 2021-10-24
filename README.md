@@ -1,6 +1,6 @@
 # StudentuZurnalas
 Savarankiškas darbas nr1.
-v0.1
+v0.č
 
 # Programa papildyta:
 
