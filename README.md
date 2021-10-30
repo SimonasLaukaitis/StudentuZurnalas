@@ -19,7 +19,7 @@ Reikalingų duomenų sąrašas:
 ## Jeigu failas yra ne tuščias:
 * Programa paprašo pasirinkti **NUSKAITYTI** ar **VALYTI** failus (pasirinkus **VALYTI** gržtama į programos pradžią)
 * Pasirinkus **NUSKAITYTI** klausiama kaip norėsite nuskaityti
-  *sdajs 
+    *sdajs 
 Vartotojo pasirinkimu programa gauna duomenis iš komandinės eilutes arba tekstinio failo.
 Vartotojo pasirinkimu gautis duomenys yra naudojami skaičiuojant pažymių vidurkį arba medianą.
 Vartotojo pasirinkimu pažymiai gali būti suvedami paties, arba sugeneruojami naudojant funkcijas skirtas atsitiktiniem skaičių generavimui
