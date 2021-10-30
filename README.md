@@ -7,7 +7,14 @@ Reikalingų duomenų sąrašas:
 3. Studento pavardė
 4. Studento pažymiai
 
-* jsja
+##Jeigu failas yra tuščias:
+* Programa paprašo pasirinkti skaičiuosite vidurkį, ar medianą
+* Programa paprašo pasirinkti **NORMAL MODE**(duomenys bus įvedami vartotojo), arba **DEMO MODE**(duomenys bus gneruojami) 
+* Paklausiama kiek stidentų objektų kursime
+* Priklausomai nuo pasirinkto objektų skaičiaus įvedama studėnto duomenys(vardas ir pavardė)
+* Įvedami pažymiai, **norint nutraukti įvedima -1**, egzamino pažymys. 
+* Sukuriami objektai, paskaičiuojamas medianas arba vidurkis
+* Viskas įrašoma į failą
 Vartotojo pasirinkimu programa gauna duomenis iš komandinės eilutes arba tekstinio failo.
 Vartotojo pasirinkimu gautis duomenys yra naudojami skaičiuojant pažymių vidurkį arba medianą.
 Vartotojo pasirinkimu pažymiai gali būti suvedami paties, arba sugeneruojami naudojant funkcijas skirtas atsitiktiniem skaičių generavimui
