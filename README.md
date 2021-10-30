@@ -9,10 +9,10 @@ Reikalingų duomenų sąrašas:
 
 ## Jeigu failas yra tuščias:
 * Programa paprašo pasirinkti skaičiuosite vidurkį, ar medianą
-* Programa paprašo pasirinkti **NORMAL MODE**(duomenys bus įvedami vartotojo), arba **DEMO MODE**(duomenys bus gneruojami) 
+* Programa paprašo pasirinkti **NORMAL MODE** (duomenys bus įvedami vartotojo), arba **DEMO MODE** (duomenys bus gneruojami) 
 * Paklausiama kiek stidentų objektų kursime
 * Priklausomai nuo pasirinkto objektų skaičiaus įvedama studėnto duomenys(vardas ir pavardė)
-* Įvedami pažymiai, **norint nutraukti įvedima -1**, egzamino pažymys. 
+* Įvedami pažymiai, >**norint nutraukti pažymių įvedimą -1**, egzamino pažymys. 
 * Sukuriami objektai, paskaičiuojamas medianas arba vidurkis
 * Viskas įrašoma į failą
 
