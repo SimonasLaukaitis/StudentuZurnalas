@@ -34,52 +34,79 @@
  
 ## Programos veikimp pavyzdys
 `Failas yra tuscias!`
+
 `Irasomi nauji duomenys`
 
 `Vidurkis: 1`
+
 `Medianas: 2`
    > NOTE pasirenkamas **Vidurkis**
    
 `NORMAL MODE: 1`
+
 `DEMO MODE: 2`
    > NOTE pasirenkamas **Demo mode**
  
 `Kiek objektu kursim: 4`
+
 `Kiek pazimiu generuosim: 3`
+
 > NOTE įvedamas objektų ir  pažymių skaičius
 
 `1. ***STUDENTO OBJEKTAS SUKURTAS***`
+
 `2. ***STUDENTO OBJEKTAS SUKURTAS***`
+
 `3. ***STUDENTO OBJEKTAS SUKURTAS***`
+
 `4. ***STUDENTO OBJEKTAS SUKURTAS***`
 
 **Toliau programa pradeda veikti iš pradžių**
 `Faile yra duomenu!`
+
 `1. FAILU NUSKAITYMAS`
+
 `2. FAILU VALYMAS`
+
 > NOTE pasirenkamas **FAILU NUSKAITYMAS**
 > 
 `KAIP NORESITE ISVESTI`
+
 `1. *TESTAVIMAS* Per buferi kursiokai.txt`
+
 `2. Per buferi gudrociai.txt`
+
 `3. Per buferi nuskriaustukai.txt`
+
 `4. Paprastai kursiokai.txt`
+
 `5. Paprastai gudrociai.txt ir nuskriaustukai.txt`
+
 > NOTE pasirenkamas **Paprastai gudrociai.txt ir nuskriaustukai.txt**
 
 `****************************GALVOCIAI****************************`
+
 `Galvocius 1.Vardas   Pavarde     4  9  1    8   (Vid) 6.67`
+
 `Galvocius 3.Vardas   Pavarde     6  3  8    5   (Vid) 5.27`
+
 `Galvocius 5.Vardas   Pavarde     8  4  8    6   (Vid) 6.66`
+
 `****************************NUSKRIAUSTUKAI***********************`
+
 `Nuskriaustukas 2.Vardas   Pavarde     2  1  9    0   (Vid) 1.60`
+
 `Nuskriaustukas 4.Vardas   Pavarde     5  5  3    3   (Vid) 3.53`
+
 `
 
 **Toliau grįžtama į programos pradžią**
 `Faile yra duomenu!`
+
 `1. FAILU NUSKAITYMAS`
+
 `2. FAILU VALYMAS`
+
 
 ## Programos veikimo etapai ir jų realizavimas
 1. Versija *v0.1*
@@ -105,4 +132,3 @@
 	>NOTE: Šiuo būdu *sort()* funkcija visais atvėjais veikė greičiau, rūšiavimas į du konteinerius vyko žymiai lėčiau, nepriklausomai nuo konteinerio tipo, bet greičiausias buvo *Deque*. Išvedimas i vieną naują failą ir likusių palikimas užtruko itin trumpai, lyginant su vedimu į du atskirus failus. Atminties poreikis sumažėjo itin stipriai ~5 kartus.
 	*(pirmos ir antros strategijos duomenys gali skirtis, nes buvo modifikuotas nuskaitymas iš failo)* 
 	* Nauji testavimo duomenys aprašyti `Testavimas Buferis.xlsx` faile *(nuskaitoma per buferį)*
-
