@@ -7,7 +7,7 @@ Reikalingų duomenų sąrašas:
 3. Studento pavardė
 4. Studento pažymiai
 
-##Jeigu failas yra tuščias:
+## Jeigu failas yra tuščias:
 * Programa paprašo pasirinkti skaičiuosite vidurkį, ar medianą
 * Programa paprašo pasirinkti **NORMAL MODE**(duomenys bus įvedami vartotojo), arba **DEMO MODE**(duomenys bus gneruojami) 
 * Paklausiama kiek stidentų objektų kursime
@@ -15,6 +15,11 @@ Reikalingų duomenų sąrašas:
 * Įvedami pažymiai, **norint nutraukti įvedima -1**, egzamino pažymys. 
 * Sukuriami objektai, paskaičiuojamas medianas arba vidurkis
 * Viskas įrašoma į failą
+
+## Jeigu failas yra ne tuščias:
+* Programa paprašo pasirinkti **NUSKAITYTI** ar **VALYTI** failus (pasirinkus **VALYTI** gržtama į programos pradžią)
+* Pasirinkus **NUSKAITYTI** klausiama kaip norėsite nuskaityti
+  *sdajs 
 Vartotojo pasirinkimu programa gauna duomenis iš komandinės eilutes arba tekstinio failo.
 Vartotojo pasirinkimu gautis duomenys yra naudojami skaičiuojant pažymių vidurkį arba medianą.
 Vartotojo pasirinkimu pažymiai gali būti suvedami paties, arba sugeneruojami naudojant funkcijas skirtas atsitiktiniem skaičių generavimui
