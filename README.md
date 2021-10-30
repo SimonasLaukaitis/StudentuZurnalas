@@ -3,9 +3,9 @@
 
 Reikalingų duomenų sąrašas:
 
-1.Studento vardas
-2.Studento pavardė
-3.Studento pažymiai (pažymių skaičius gali kisti)
+1. Studento vardas
+2. Studento pavardė
+3. Studento pažymiai (pažymių skaičius gali kisti)
 Vartotojo pasirinkimu programa gauna duomenis iš komandinės eilutes arba tekstinio failo.
 Vartotojo pasirinkimu gautis duomenys yra naudojami skaičiuojant pažymių vidurkį arba medianą.
 Vartotojo pasirinkimu pažymiai gali būti suvedami paties, arba sugeneruojami naudojant funkcijas skirtas atsitiktiniem skaičių generavimui
