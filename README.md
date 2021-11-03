@@ -32,7 +32,7 @@
      * Paprastas nuskaitymas `gudruciai.txt` ir `nuskriaustukai.txt`
  * Baigus išvedimą grįžtama į ekraną kur klausiama **NUSKAITYTI** ar **VALYTI** failus 
  
-## Programos veikimp pavyzdys
+## Programos veikimo pavyzdys
 `Failas yra tuscias!`
 
 `Irasomi nauji duomenys`
