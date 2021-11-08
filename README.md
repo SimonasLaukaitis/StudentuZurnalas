@@ -126,6 +126,7 @@
       *List* duomenis talpino lėtai, lyginti su *Vector* ir *Deque*, tačiau sort funkcija veikė greitai, bet su didesniais skaičiais nusileido *Deque*.
       *Deque* duomenis talpino lėčiausiai, bet greičiausias buvo duomenų rūšiavime, kai duomenys pasiekdavo 100 000 ir daugiau.
 3. Versija *v1.0*
+	* Pridetas *EXCEPTION*.
 	* Įgyvendinta **1 strategija**: Bendro **studentai** konteinerio (`vector`, `list` ir `deque` tipų) skaidymas (rūšiavimas) **į du naujus to paties tipo konteinerius**
 	>NOTE: Kadangi šis etapas buvo vykdomas nuskaitant per buferį, rezultatai skiriasi lyginant su pirmuoju testavimu. Failų nuskaityme dideliuose objektų skaičiuose greičiausiai veikė *List*, sort() - *Deque*. Duomenys panašūs kaip ir ankstesniame testavime.  Mažiausiai atminties pareikalavo **VECTOR** konteineris 
 	* Įgyvendinta **2 strategija**: Bendro studentų konteinerio (`vector`, `list` ir `deque`) skaidymas (rūšiavimas) **panaudojant tik vieną naują konteinerį**: "**nuskriaustukai**".
